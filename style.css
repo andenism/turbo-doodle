@@ -76,13 +76,29 @@ nav {
 
 main {
     position: absolute;
-    border: 2px solid red;
     color: #fff;
-    margin: 198px 0 0 176px;
+    margin: 100px 0 0 176px;
 }
 
 p {
     font-size: 16px;
     font-weight: 600;
     color: #098A5B;
+}
+
+h2 {
+    font-size: 64px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.button_main {
+    width: 193px;
+    height: 75px;
+    background-color: transparent;
+    border: 1px solid #098A5B;
+    text-transform: uppercase;
+    color: #098A5B;
+    font-size: 16px;
+    margin-top: 35px;
 }
